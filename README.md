@@ -1,5 +1,5 @@
 # 💫 About Me:
-Greetings! 
+Hello!
 I’m a data professional from Brazil, currently transitioning into data science.
 
 
