@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hello!
-I’m a data professional from Brazil, currently transitioning into data science.
+I’m a Computer Engineer from Brazil, currently transitioning into data science.
 
 
 # 💻 Tech Stack:
